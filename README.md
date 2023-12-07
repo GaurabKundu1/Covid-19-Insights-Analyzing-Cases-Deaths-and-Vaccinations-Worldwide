@@ -43,6 +43,14 @@ The project aims to analyze and derive insights from Covid-19 data encompassing 
 - Usage of CTEs and Temp Tables to calculate the percentage of population vaccinated.
 - Creation of a View storing data for potential future visualizations.
 
+### Tableau Data Visualization
+
+Visualized Global Numbers, Percentage of Population Infected per Country, Total Deaths per Continent, Percentage of Population infected over time in countries Brazil, China, India, Italy, Russia.
+
+<img src="https://github.com/GaurabKundu1/Covid-19-Insights-Analyzing-Cases-Deaths-and-Vaccinations-Worldwide/assets/86102231/77ae27cc-8c7c-4158-b210-3f3a173dd2e8">
+
+[The Dashboard can be accessed here:](https://public.tableau.com/views/Covid-19InsightsAnalyzingCasesDeathsandVaccinationsWorldwide/CovidDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ### Conclusion:
 The analysis provided insights into the spread of Covid-19, its impact on different countries, and the progress of vaccination efforts. Key findings include:
 
